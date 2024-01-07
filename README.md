@@ -1,20 +1,38 @@
-This is your group repo for your final project for COGS108.
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+# My Contributions to the Final Project
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
+This document outlines the specific contributions I made to our data science final project.
 
-This repository will be frozen on the final project due date. No further changes can be made after that time.
+## Overview
+- **I wrote a clear summary** of our project, detailing our objectives, methods, and outcomes.
 
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
+## Research Question
+- **I formulated a specific, clear data science question** guiding our research.
 
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
+## Hypothesis
+- **I developed and included our team's hypothesis**, providing a rationale for the expected outcome.
 
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
+## Dataset(s)
+- **I provided a detailed explanation of the datasets used**, covering all relevant aspects and citing sources.
 
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
+## Data Analysis
+- **Data Cleaning & Pre-processing**: I performed the necessary steps and provided justifications.
+- **Data Visualization**: I created at least three visualizations with clear labeling and interpretation.
+- **Data Analysis & Results**: I conducted EDA and other analyses, interpreting the results.
 
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+## Privacy/Ethics Considerations
+- **I engaged in a discussion of privacy and ethical considerations**, addressing potential concerns throughout the data science process.
+
+## Conclusion & Discussion
+- **I wrote a clear conclusion and discussion** of the results, touching upon the limitations of our analysis.
+
+## Video Presentation
+- **I ensured our research question and results were clearly presented** in the video with effective visualizations and explanations.
+
+## Final Checks
+- **I edited all text for clarity, removed instructional content**, ensured readability, and renamed the project file appropriately.
+
+## Post-Course Actions
+- **I followed instructions for making the project public** and for duplicating the repository.
+
+This document serves as a record of my individual contributions to the final project in our data science course.
